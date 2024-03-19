@@ -105,7 +105,7 @@
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
         "url":  "https://cdn.modrinth.com/data/Q2OqKxDG/versions/p00hq2Ib/BetterAdvancements-Fabric-1.20.4-0.4.0.176.jar",
@@ -504,12 +504,12 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/XeEZ3fK2/versions/MrgEk6HV/freecam-fabric-modrinth-1.2.3%2B1.20.4.jar",
-        "home-url":  "https://modrinth.com/mod/XeEZ3fK2",
+        "url":  "https://mediafilez.forgecdn.net/files/5081/893/freecam-fabric-1.2.3%2B1.20.4.jar",
+        "home-url":  "https://www.curseforge.com/minecraft/mc-mods/free-cam",
         "name":  "Freecam",
         "version":  "1.2.3",
         "filename":  "freecam.jar",
-        "md5":  "5bac1bce5cf062596b5c26c9bf7c3682",
+        "md5":  "a8279e33b1fc7d23c539839a7cd600b7",
         "destination":  "mods",
         "server": false,
         "client": true,
@@ -753,7 +753,7 @@
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
         "url":  "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar",
@@ -762,6 +762,42 @@
         "version":  "11.1.17",
         "filename":  "architectury-api.jar",
         "md5":  "666d154657c8c2241377720d679dc6de",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": true
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/4WoxRZtH/shulkerplus-mc1.20.1-v1.0.7-fabric.jar",
+        "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
+        "name":  "Shulker+",
+        "version":  "1.0.7",
+        "filename":  "shulker-plus.jar",
+        "md5":  "29252c025612432cf5be2cf23436a86d",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/F7wXag4i/versions/rgYqJTY6/inventorymanagement-1.5.0%2B1.20.3.jar",
+        "home-url":  "https://modrinth.com/mod/F7wXag4i",
+        "name":  "Inventory Management",
+        "version":  "1.5.0",
+        "filename":  "inventory-management.jar",
+        "md5":  "102d76880ce34cc75e0b84ec98b87876",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/ofS5nIjw/versions/gIFhIrU5/packed-inventory-0.3.0%2B1.20.3.jar",
+        "home-url":  "https://modrinth.com/mod/ofS5nIjw",
+        "name":  "Packed Inventory",
+        "version":  "0.3.0",
+        "filename":  "packed-inventory.jar",
+        "md5":  "b2401e308b6eb81113630f46726167f3",
         "destination":  "mods",
         "server": true,
         "client": true,
