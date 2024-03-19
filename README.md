@@ -12,9 +12,9 @@ I've been using Prism Launcher for LunarKraft for several months now, and it is 
 
 ## Setting up the Launcher
 
-1. Download and install the Prism Launcher: https://prismlauncher.org/download/
-2. Download the minecraft profile from here: https://drive.google.com/file/d/1up16fpZXkcrCy7KRcMKs4q9AklR1xqms/view?usp=drive_link
-3. Once the launcher is installed, run it and click "Add Instance"
+1. Download and install the [Prism Launcher](https://prismlauncher.org/download/).
+2. Download the [Lunarkraft profile](https://github.com/josef-dijon/lunarkraft/releases/latest).
+3. Once the launcher is installed, run it and click "Add Instance".
 ![Add instance](https://github.com/josef-dijon/lunarkraft/blob/main/doc/screenshots/image3.png?raw=true)
 4. Select the "Import from zip" option, browse to the zip file and then click OK.
 ![Importing the instance zip](https://github.com/josef-dijon/lunarkraft/blob/main/doc/screenshots/image2.png?raw=true)
