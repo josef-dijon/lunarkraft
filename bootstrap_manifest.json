@@ -5,7 +5,7 @@
         "name": "Minecraft Mod Updater",
         "version": "1.1",
         "filename": "mod-updater.jar",
-        "md5": "d25d5ba7fb027906a794e6b8cb26c748",
+        "md5": "f76a25e4826ba2318e08f81a2cf8202b",
         "destination": ".",
         "server": false,
         "client": true,
