@@ -4,7 +4,7 @@ Lunarkraft modpack for Minecraft using Prism Launcher.
 
 ## LunarKraft Prism Launcher Guide
 
-Prism Launcher is yet another Minecraft launcher, similar to the Curseforge launcher. Prism allows more flexibility in managing Minecraft instances, and managing keeping the client mod list up to date with the server. In the background, prism runs a ![simple java program](https://github.com/josef-dijon/minecraft-mod-updater) to check that your mods are up to date each time you launch the Lunarkraft instance of minecraft.
+Prism Launcher is yet another Minecraft launcher, similar to the Curseforge launcher. Prism allows more flexibility in managing Minecraft instances, and managing keeping the client mod list up to date with the server. In the background, prism runs a [simple java program](https://github.com/josef-dijon/minecraft-mod-updater) to check that your mods are up to date each time you launch the Lunarkraft instance of minecraft.
 
 Instances are completely separate from any version of Minecraft you already have installed, so the LunarKraft mods wont interfer with any other mod packs or servers you play on.
 
@@ -29,7 +29,7 @@ I've been using Prism Launcher for LunarKraft for several months now, and it is 
 ## Assistance
 
 If you have questions, or need help with anything, hit up the Discord server:
-![Lunarkraft Discord](https://discord.com/channels/851400460242124821/851400460816089090)
+[Lunarkraft Discord](https://discord.com/channels/851400460242124821/851400460816089090)
 
 The mod updater software source is here:
-![Minecraft Mod Updater](https://github.com/josef-dijon/minecraft-mod-updater)
+[Minecraft Mod Updater](https://github.com/josef-dijon/minecraft-mod-updater)
