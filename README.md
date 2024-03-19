@@ -26,6 +26,10 @@ I've been using Prism Launcher for LunarKraft for several months now, and it is 
 ![Microsoft sign in successful](https://github.com/josef-dijon/lunarkraft/blob/main/doc/screenshots/image5.png?raw=true)
 7. And that's it! Prism Launcher will download Minecraft, install the Fabric loader, and download all the mods, resource packs and shaders for the server. Once you're in, the LunarKraft server link will already be set up in the multiplayer screen on Minecraft. Note, the download takes a little bit, so be patient. And watch the log for any red text.
 
+## How it works
+
+The prism launcher profile runs a java program that downloads the mod updater. It then runs the mod updater, which downloads a manifest from this github repo, and downloads (or removes) all mods to keep your Minecraft instance in sync with the manifest. Any mods that are updated or new mods that are added to the manifest will be automatically downloaded when you run minecraft. Any mods that have been removed from the manifest, e.g. ones that have been found to be buggy or unreliable will be deleted from the mods directory. Note that only mods that are explicitly deprecated in the manifest are actually deleted, this will prevent any client side mods outside the manifest from being removed unintentionally.
+
 ## Assistance
 
 If you have questions, or need help with anything, hit up the Discord server:
