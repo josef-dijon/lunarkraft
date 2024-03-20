@@ -979,7 +979,7 @@
         "filename":  "sound-physics-remastered.jar",
         "md5":  "03ab978129ce5b86db134bbb0bb1aea0",
         "destination":  "mods",
-        "server": false,
+        "server": true,
         "client": true,
         "deprecated": false
     },
