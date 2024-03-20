@@ -48,12 +48,12 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/P7dR8mSH/versions/9p2sguD7/fabric-api-0.96.4%2B1.20.4.jar",
+        "url":  "https://cdn.modrinth.com/data/P7dR8mSH/versions/htRy7kbI/fabric-api-0.96.11%2B1.20.4.jar",
         "home-url":  "https://modrinth.com/mod/P7dR8mSH",
         "name":  "Fabric API",
-        "version":  "0.96.4+1.20.4",
+        "version":  "0.96.11",
         "filename":  "fabric-api.jar",
-        "md5":  "2ef9ba9b1cf087f4356ebe55366fb9ef",
+        "md5":  "43fe492304dbd663fb3148d4f5c4a024",
         "destination":  "mods",
         "server": true,
         "client": true,
@@ -276,12 +276,12 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/e0M1UDsY/versions/nXqSt7Bl/collective-1.20.4-7.36.jar",
+        "url":  "https://cdn.modrinth.com/data/e0M1UDsY/versions/n9TNesVV/collective-1.20.4-7.40.jar",
         "home-url":  "https://modrinth.com/mod/e0M1UDsY",
         "name":  "Collective",
-        "version":  "7.36",
+        "version":  "7.40",
         "filename":  "collective.jar",
-        "md5":  "74132440a81e7590bf4f0f3b50130bea",
+        "md5":  "bb773905fecb707efd04421130f5d9d7",
         "destination":  "mods",
         "server": true,
         "client": true,
@@ -528,12 +528,12 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/Ha28R6CL/versions/vlhvI5Li/fabric-language-kotlin-1.10.18%2Bkotlin.1.9.22.jar",
+        "url":  "https://cdn.modrinth.com/data/Ha28R6CL/versions/ZMokinzs/fabric-language-kotlin-1.10.19%2Bkotlin.1.9.23.jar",
         "home-url":  "https://modrinth.com/mod/Ha28R6CL",
         "name":  "Fabric Language Kotlin",
-        "version":  "1.10.18+kotlin.1.9.22",
+        "version":  "1.10.19+kotlin.1.9.23",
         "filename":  "fabric-language-kotlin.jar",
-        "md5":  "447fba59921f94de8d37d3d6f9616caf",
+        "md5":  "aa6ae207640288876f5b8551f5e33459",
         "destination":  "mods",
         "server": true,
         "client": true,
@@ -636,12 +636,12 @@
         "deprecated": true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/QAGBst4M/versions/9SKeDQfZ/PuzzlesLib-v20.4.36-1.20.4-Fabric.jar",
+        "url":  "https://cdn.modrinth.com/data/QAGBst4M/versions/8ENMTJuS/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar",
         "home-url":  "https://modrinth.com/mod/QAGBst4M",
         "name":  "Puzzles Lib",
-        "version":  "20.4.36",
+        "version":  "20.4.40",
         "filename":  "puzzles-lib.jar",
-        "md5":  "fe53423fd44a5b11a0d5000700872135",
+        "md5":  "f7b429ad1b02eee099aa43babb4511be",
         "destination":  "mods",
         "server": true,
         "client": true,
