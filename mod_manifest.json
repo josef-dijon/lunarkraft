@@ -427,7 +427,7 @@
         "filename":  "fusion.jar",
         "md5":  "a635c77d25e3e433e2114a281596dcab",
         "destination":  "mods",
-        "server": false,
+        "server": true,
         "client": true,
         "deprecated": false
     },
