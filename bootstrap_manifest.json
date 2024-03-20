@@ -7,7 +7,7 @@
         "filename": "mod-updater.jar",
         "md5": "f76a25e4826ba2318e08f81a2cf8202b",
         "destination": ".",
-        "server": false,
+        "server": true,
         "client": true,
         "deprecated": false
     }
