@@ -1054,5 +1054,17 @@
         "server": true,
         "client": true,
         "deprecated": false
+    },
+	{
+        "url":  "https://mediafilez.forgecdn.net/files/3822/116/Creatures%2B2.2beta.zip",
+        "home-url":  "https://www.curseforge.com/minecraft/texture-packs/creatures",
+        "name":  "Creatures+",
+        "version":  "2.2",
+        "filename":  "creatures-plus.zip",
+        "md5":  "6f493f403d00bb69607db6c6f3e214fc",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
     }
 ]
