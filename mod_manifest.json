@@ -945,7 +945,7 @@
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
 	{
         "url":  "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
