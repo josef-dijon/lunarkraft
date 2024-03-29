@@ -1066,5 +1066,29 @@
         "server": false,
         "client": true,
         "deprecated": false
+    },
+	{
+        "url":  "https://github.com/gnembon/fabric-carpet/releases/download/1.4.136/fabric-carpet-24w13a-1.4.136+v240327.jar",
+        "home-url":  "https://github.com/gnembon/fabric-carpet",
+        "name":  "Fabric Carpet",
+        "version":  "1.4.136",
+        "filename":  "fabric-carpet.zip",
+        "md5":  "d755f89aeac08444f5db2ca6d4f63aac",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
+    },
+	{
+        "url":  "https://github.com/gnembon/carpet-extra/releases/download/1.4.128/carpet-extra-1.20.3-1.4.128.jar",
+        "home-url":  "https://github.com/gnembon/carpet-extra",
+        "name":  "Carpet Extra",
+        "version":  "1.4.128",
+        "filename":  "carpet-extra.zip",
+        "md5":  "63c5d136f5d6cba72bd8192b57a746f3",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
     }
 ]
