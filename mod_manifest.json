@@ -1090,5 +1090,29 @@
         "server": true,
         "client": true,
         "deprecated": false
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/Rt1mrUHm/versions/GAHsEejj/player-roles-1.6.8.jar",
+        "home-url":  "https://modrinth.com/mod/Rt1mrUHm",
+        "name":  "Player Roles",
+        "version":  "1.6.8",
+        "filename":  "player-roles.jar",
+        "md5":  "e30aa67782fb562752029e6751b8361c",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/hsRVgp6Q/versions/qoALXw1N/leukocyte-0.3.7%2B1.20.4.jar",
+        "home-url":  "https://modrinth.com/mod/hsRVgp6Q",
+        "name":  "Leukocyte",
+        "version":  "0.3.7",
+        "filename":  "leukocyte.jar",
+        "md5":  "c527db14c2aeb00642d68a4861c35a93",
+        "destination":  "mods",
+        "server": true,
+        "client": true,
+        "deprecated": false
     }
 ]
