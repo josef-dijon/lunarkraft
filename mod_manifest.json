@@ -96,18 +96,6 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/5ibSyLAz/versions/MO3Q3zs2/InventorySorter-1.9.0-1.20.4.jar",
-        "home-url":  "https://modrinth.com/mod/5ibSyLAz",
-        "name":  "Inventory Sorter",
-        "version":  "1.9.0-1.20.4",
-        "filename":  "inventory-sorter.jar",
-        "md5":  "d10100375fd63f32b50213621ea13cc5",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/Q2OqKxDG/versions/p00hq2Ib/BetterAdvancements-Fabric-1.20.4-0.4.0.176.jar",
         "home-url":  "https://modrinth.com/mod/Q2OqKxDG",
         "name":  "Better Advancements",
@@ -468,18 +456,6 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/3b1CFIR5/versions/2maA6qra/MobPlaques-v20.4.0-1.20.4-Fabric.jar",
-        "home-url":  "https://modrinth.com/mod/3b1CFIR5",
-        "name":  "Mob Plaques",
-        "version":  "20.4.0",
-        "filename":  "mob-plaques.jar",
-        "md5":  "9866b7e7b1236b7493b49e978c4bfb8f",
-        "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/H8CaAYZC/versions/HZYU0kdg/starlight-1.1.3%2Bfabric.f5dcd1a.jar",
         "home-url":  "https://modrinth.com/mod/H8CaAYZC",
         "name":  "Starlight",
@@ -624,18 +600,6 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/vUi6HFie/versions/DbiMJZZz/enchantedshulkers-mc1.20.4-v1.2.4.jar",
-        "home-url":  "https://modrinth.com/mod/vUi6HFie",
-        "name":  "Enchanted Shulkers",
-        "version":  "1.2.4",
-        "filename":  "enchanted-shulkers.jar",
-        "md5":  "31b42da665e22dc81d606baace125992",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/QAGBst4M/versions/8ENMTJuS/PuzzlesLib-v20.4.40-1.20.4-Fabric.jar",
         "home-url":  "https://modrinth.com/mod/QAGBst4M",
         "name":  "Puzzles Lib",
@@ -742,30 +706,6 @@
         "server": false,
         "client": true,
         "deprecated": false
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/b2T42hfY/versions/7WzdpK4h/labellingcontainers-1.5.1.jar",
-        "home-url":  "https://modrinth.com/mod/b2T42hfY",
-        "name":  "Labelling Containers",
-        "version":  "1.5.1",
-        "filename":  "labelling-containers.jar",
-        "md5":  "62c4b3f3f0a60071dec9ad1d7979f87d",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/lhGA9TYQ/versions/kVjQWX0l/architectury-11.1.17-fabric.jar",
-        "home-url":  "https://modrinth.com/mod/lhGA9TYQ",
-        "name":  "Architectury API",
-        "version":  "11.1.17",
-        "filename":  "architectury-api.jar",
-        "md5":  "666d154657c8c2241377720d679dc6de",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
     },
 	{
         "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/4WoxRZtH/shulkerplus-mc1.20.1-v1.0.7-fabric.jar",
@@ -934,18 +874,6 @@
         "server": false,
         "client": true,
         "deprecated": false
-    },
-	{
-        "url":  "https://cdn.modrinth.com/data/z7UX4SHt/versions/BwOxbK1P/netherportalspread-1.20.4-8.1.jar",
-        "home-url":  "https://modrinth.com/mod/z7UX4SHt",
-        "name":  "Nether Portal Spread",
-        "version":  "8.1",
-        "filename":  "nether-portal-spread.jar",
-        "md5":  "277bad722845a7fe786ec06a5f01e0fd",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
     },
 	{
         "url":  "https://cdn.modrinth.com/data/qQyHxfxd/versions/tfv6A4l5/NoChatReports-FABRIC-1.20.4-v2.5.0.jar",
