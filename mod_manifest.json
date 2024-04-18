@@ -1042,5 +1042,17 @@
         "server": true,
         "client": false,
         "deprecated": false
+    },
+	{
+        "url":  "https://cdn.modrinth.com/data/LVN9ygNV/versions/aeyvUBDY/ledger-1.2.10.jar",
+        "home-url":  "https://modrinth.com/mod/LVN9ygNV",
+        "name":  "Ledger",
+        "version":  "1.2.10",
+        "filename":  "ledger.jar",
+        "md5":  "087f7a4bdf7563eb10070ea6a70314c5",
+        "destination":  "mods",
+        "server": true,
+        "client": false,
+        "deprecated": false
     }
 ]
