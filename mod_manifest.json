@@ -80,7 +80,7 @@
         "md5":  "b53b4677f08b9e7be1982e0c8c399106",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -128,7 +128,7 @@
         "md5":  "33c4e253387151727bfb4e37eaa2b6f6",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -200,7 +200,7 @@
         "md5":  "83da6729d5402dc42eca740a96f97346",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -452,7 +452,7 @@
         "md5":  "24044e40aba2486356d6e32e071aadac",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -464,7 +464,7 @@
         "md5":  "e4b2c577ba4501b8cc29c7217eeaf108",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -572,7 +572,7 @@
         "md5":  "e92eda16fc672d82d18ed97574c68376",
         "destination":  "mods",
         "server": true,
-        "client": false,
+        "client": true,
         "deprecated": false
     },
     {
@@ -993,7 +993,7 @@
         "destination":  "resourcepacks",
         "server": false,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
 	{
         "url":  "https://github.com/gnembon/fabric-carpet/releases/download/1.4.128/fabric-carpet-1.20.3-1.4.128+v231205.jar",
@@ -1028,7 +1028,7 @@
         "md5":  "e30aa67782fb562752029e6751b8361c",
         "destination":  "mods",
         "server": true,
-        "client": true,
+        "client": false,
         "deprecated": false
     },
 	{
@@ -1040,7 +1040,7 @@
         "md5":  "c527db14c2aeb00642d68a4861c35a93",
         "destination":  "mods",
         "server": true,
-        "client": true,
+        "client": false,
         "deprecated": false
     }
 ]
