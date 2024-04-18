@@ -1,11 +1,11 @@
 [
     {
-        "url": "https://github.com/josef-dijon/minecraft-mod-updater/releases/download/1.1.1/mod-updater.jar",
-        "home-url": "https://github.com/josef-dijon",
+        "url": "https://github.com/josef-dijon/minecraft-mod-updater/releases/download/1.1.2/mod-updater.jar",
+        "home-url": "https://github.com/josef-dijon/minecraft-mod-updater",
         "name": "Minecraft Mod Updater",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "filename": "mod-updater.jar",
-        "md5": "d9e43a9548febb545b64358e5eacc497",
+        "md5": "dc2a69029a4a9966077d47bd9c237c26",
         "destination": ".",
         "server": true,
         "client": true,
