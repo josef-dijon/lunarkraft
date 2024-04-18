@@ -1,5 +1,17 @@
 [
     {
+        "url": "https://github.com/josef-dijon/minecraft-mod-updater/releases/download/1.1.2/mod-updater.jar",
+        "home-url": "https://github.com/josef-dijon/minecraft-mod-updater",
+        "name": "Minecraft Mod Updater",
+        "version": "1.1.2",
+        "filename": "bootstrap.jar",
+        "md5": "dc2a69029a4a9966077d47bd9c237c26",
+        "destination": ".",
+        "server": true,
+        "client": true,
+        "deprecated": false
+    },
+    {
         "url":  "https://cdn.modrinth.com/data/ohNO6lps/versions/xbVGsTLe/ForgeConfigAPIPort-v20.4.3-1.20.4-Fabric.jar",
         "home-url":  "https://modrinth.com/mod/ohNO6lps",
         "name":  "Forge Config API Port",
