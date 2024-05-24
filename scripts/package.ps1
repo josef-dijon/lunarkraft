@@ -29,13 +29,17 @@ param(
 $url = "https://github.com/josef-dijon/minecraft-mod-updater/releases/latest/download/mod-updater.jar"
 
 # Download the .jar file
-Invoke-WebRequest -Uri $url -OutFile "prism-profile/.minecraft/bootstrap.jar"
+Invoke-WebRequest -Uri $url -OutFile "prism-profile-windows/.minecraft/bootstrap.jar"
+Invoke-WebRequest -Uri $url -OutFile "prism-profile-linux/.minecraft/bootstrap.jar"
 
 # Define the output zip file name, including the version
-$zipFileName = "Lunarkraft-$version.zip"
+$zipFileNameWindows = "Lunarkraft-windows-$version.zip"
+$zipFileNameLinux = "Lunarkraft-linux-$version.zip"
 
 # Zip the directory
-Compress-Archive -Force -Path "prism-profile/*" -DestinationPath $zipFileName
+Compress-Archive -Force -Path "prism-profile-windows/*" -DestinationPath $zipFileNameWindows
+Compress-Archive -Force -Path "prism-profile-linux/*" -DestinationPath $zipFileNameLinux
 
 # Output the location of the zip file
-Write-Host "Package created at: $zipFileName"
+Write-Host "Package created at: $zipFileNameWindows"
+Write-Host "Package created at: $zipFileNameLinux"
