@@ -408,12 +408,12 @@
         "deprecated": false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/YL57xq9U/versions/kGdJ11Rt/iris-mc1.20.4-1.6.17.jar",
+        "url":  "https://cdn.modrinth.com/data/YL57xq9U/versions/45ETshvT/iris-1.7.0%2Bmc1.20.4.jar",
         "home-url":  "https://modrinth.com/mod/YL57xq9U",
         "name":  "Iris",
-        "version":  "1.6.17",
+        "version":  "1.7.0",
         "filename":  "iris.jar",
-        "md5":  "cc391df9e929608c37a04a342c6babb3",
+        "md5":  "4cd07c5091cc9646ea26f7242a316bbe",
         "destination":  "mods",
         "server": false,
         "client": true,
