@@ -720,6 +720,30 @@
         "deprecated": false
     },
     {
+        "url":  "https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar",
+        "home-url":  "https://cdn.modrinth.com/mod/m0oRwcZx",
+        "name":  "Camera Overhaul",
+        "version":  "1.4.1",
+        "filename":  "camera-overhaul.jar",
+        "md5":  "",
+        "destination":  "mods",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://cdn.modrinth.com/data/Cfbcv7uF/versions/Gl8sM8TE/mc2discord-fabric-1.21.x-4.2.4.jar",
+        "home-url":  "https://cdn.modrinth.com/mod/Cfbcv7uF",
+        "name":  "Mc2Discord",
+        "version":  "4.2.4",
+        "filename":  "Mc2Discord.jar",
+        "md5":  "",
+        "destination":  "mods",
+        "server": true,
+        "client": false,
+        "deprecated": false
+    },
+    {
         "url":  "", ######################
         "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
         "name":  "Shulker+",
