@@ -1,15 +1,15 @@
-[
+﻿[
     {
-        "url": "https://github.com/josef-dijon/minecraft-mod-updater/releases/download/1.1.2/mod-updater.jar",
-        "home-url": "https://github.com/josef-dijon/minecraft-mod-updater",
-        "name": "Minecraft Mod Updater",
-        "version": "1.1.2",
-        "filename": "bootstrap.jar",
-        "md5": "dc2a69029a4a9966077d47bd9c237c26",
-        "destination": ".",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "url":  "https://github.com/josef-dijon/minecraft-mod-updater/releases/download/1.1.2/mod-updater.jar",
+        "home-url":  "https://github.com/josef-dijon/minecraft-mod-updater",
+        "name":  "Minecraft Mod Updater",
+        "version":  "1.1.2",
+        "filename":  "bootstrap.jar",
+        "md5":  "dc2a69029a4a9966077d47bd9c237c26",
+        "destination":  ".",
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/ohNO6lps/versions/6ftTLYo0/ForgeConfigAPIPort-v21.0.1-1.21-Fabric.jar",
@@ -17,11 +17,11 @@
         "name":  "Forge Config API Port",
         "version":  "21.0.1",
         "filename":  "forge-config-api-port.jar",
-        "md5":  "",
+        "md5":  "8586bca4fd6ed7df8e0c5786f0aae0d5",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Q8xUICr6/versions/BOJZlH32/ash_api-fabric-21.0.1-beta.jar",
@@ -29,11 +29,11 @@
         "name":  "Ash API",
         "version":  "21.0.1",
         "filename":  "ash-api.jar",
-        "md5":  "",
+        "md5":  "517331dc8419009b095524c97752785a",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/BVzZfTc1/versions/O3jDICoH/entity_texture_features_fabric_1.21-6.1.3.jar",
@@ -41,11 +41,11 @@
         "name":  "Entity Texture Features",
         "version":  "6.1.3",
         "filename":  "entity-texture-features.jar",
-        "md5":  "",
+        "md5":  "9ce8fc548eb70a405402628955fe0331",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/P7dR8mSH/versions/Y0cpssyN/fabric-api-0.100.6%2B1.21.jar",
@@ -53,11 +53,11 @@
         "name":  "Fabric API",
         "version":  "0.100.6",
         "filename":  "fabric-api.jar",
-        "md5":  "",
+        "md5":  "6023e26956c263f397c23cd1d2cb980a",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar",
@@ -65,11 +65,11 @@
         "name":  "Yet Another Config Lib",
         "version":  "3.5.0",
         "filename":  "yet-another-config-lib.jar",
-        "md5":  "",
+        "md5":  "41e1871f48bd4d9b8221021897b0274b",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/r8axuw4u/versions/ddttJtZz/auto-clicker-fabric-21.0.1.jar",
@@ -77,11 +77,11 @@
         "name":  "Auto Clicker",
         "version":  "21.0.1",
         "filename":  "auto-clicker.jar",
-        "md5":  "",
+        "md5":  "8b898b339eefc8feaf7112d73860aeb1",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Q2OqKxDG/versions/j25BSG4B/BetterAdvancements-Fabric-1.21-0.4.2.16.jar",
@@ -89,11 +89,11 @@
         "name":  "Better Advancements",
         "version":  "0.4.2.16",
         "filename":  "better-advancements.jar",
-        "md5":  "",
+        "md5":  "c293880707c0174c5f748153c13530b8",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/CFX9ftUJ/versions/f50pNkNh/advancednetherite-fabric-2.1.6-1.21.jar",
@@ -101,11 +101,11 @@
         "name":  "Advanced Netherite",
         "version":  "2.1.6",
         "filename":  "advanced-netherite.jar",
-        "md5":  "",
+        "md5":  "5457379d61c2c7a8179cac197ba0a4b4",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/gqRXDo8B/versions/3Wfwymh0/villagernames-1.21.0-8.0.jar",
@@ -113,11 +113,11 @@
         "name":  "Villager Names",
         "version":  "8.0",
         "filename":  "villager-names.jar",
-        "md5":  "",
+        "md5":  "102886dc8495ae88c8a68e5d6eed1438",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21-sakura.14/tweakeroo-fabric-1.21-0.20.999-sakura.14.jar",
@@ -125,11 +125,11 @@
         "name":  "Tweakeroo",
         "version":  "0.20.999",
         "filename":  "tweakeroo.jar",
-        "md5":  "",
+        "md5":  "73829f17dafa2ce0aadc8c4bc4a3ed58",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rBFMbNKQ/jei-1.21-fabric-19.4.0.28.jar",
@@ -137,11 +137,11 @@
         "name":  "Just Enough Items",
         "version":  "19.4.0.28",
         "filename":  "just-enough-items.jar",
-        "md5":  "",
+        "md5":  "941612eaa3ff9be43589ecb50a1a2173",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/gvQqBUqZ/versions/my7uONjU/lithium-fabric-mc1.21-0.12.7.jar",
@@ -149,11 +149,11 @@
         "name":  "Lithium",
         "version":  "0.12.7",
         "filename":  "lithium.jar",
-        "md5":  "",
+        "md5":  "30b1d86f2c359cc3e4cfa23cd6bb2ce7",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Bh37bMuy/versions/DNJFe2me/reeses_sodium_options-1.7.2%2Bmc1.21.jar",
@@ -161,11 +161,11 @@
         "name":  "Reeses Sodium Options",
         "version":  "1.7.2",
         "filename":  "reeses-sodium-options.jar",
-        "md5":  "",
+        "md5":  "c01d1183e960d8d2b9c6dcaa6e508ade",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/n6PXGAoM/versions/YGIJtdMB/betterstats-3.12.1%2Bfabric-1.21.jar",
@@ -173,11 +173,11 @@
         "name":  "Better Statistics Screen",
         "version":  "3.12.1",
         "filename":  "better-statistics-screen.jar",
-        "md5":  "",
+        "md5":  "5a0612a67f281b7a98e7be6ad072b842",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Eldc1g37/versions/GtbLVhaj/tcdcommons-3.12%2Bfabric-1.21.jar",
@@ -185,11 +185,11 @@
         "name":  "TCD Commons",
         "version":  "3.12",
         "filename":  "tcd-commons.jar",
-        "md5":  "",
+        "md5":  "5d5653741e2f5566a9c7d57487439c75",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/NNAgCjsB/versions/Bu3hSiJb/entityculling-fabric-1.6.6-mc1.21.jar",
@@ -197,11 +197,11 @@
         "name":  "Entity Culling",
         "version":  "1.6.6",
         "filename":  "entity-culling.jar",
-        "md5":  "",
+        "md5":  "5a598e626e0a8aab93619dc067c3b091",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/yn9u3ypm/versions/qtHZSwwl/graves-3.4.1%2B1.21.jar",
@@ -209,11 +209,11 @@
         "name":  "Universal Graves",
         "version":  "3.4.1",
         "filename":  "universal-graves.jar",
-        "md5":  "",
+        "md5":  "60d21c29a35d165c5ab0ab8c38a90f5c",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/xGdtZczs/versions/Bbj5Ts5L/polymer-bundled-0.9.4%2B1.21.jar",
@@ -221,11 +221,11 @@
         "name":  "Polymer",
         "version":  "0.9.4",
         "filename":  "polymer.jar",
-        "md5":  "",
+        "md5":  "60d3ba297de30394207be13f3a5ae799",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/PtjYWJkn/versions/uuhVlRGv/sodium-extra-0.5.7%2Bmc1.21.jar",
@@ -233,11 +233,11 @@
         "name":  "Sodium Extra",
         "version":  "0.5.7",
         "filename":  "sodium-extra.jar",
-        "md5":  "",
+        "md5":  "800f68650b6b684705a19582f615585b",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/e0M1UDsY/versions/ZaTRzQs8/collective-1.21.0-7.70.jar",
@@ -245,11 +245,11 @@
         "name":  "Collective",
         "version":  "7.70",
         "filename":  "collective.jar",
-        "md5":  "",
+        "md5":  "64d90d9cfa82e1891f3d116c98142e33",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar",
@@ -257,11 +257,11 @@
         "name":  "Mod Menu",
         "version":  "11.0.1",
         "filename":  "mod-menu.jar",
-        "md5":  "",
+        "md5":  "34d1411e0789ba6b051c6eabb11eb0bb",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/eXts2L7r/versions/Olmswxzt/placeholder-api-2.4.0%2B1.21.jar",
@@ -269,11 +269,11 @@
         "name":  "Text Placeholder API",
         "version":  "2.4.0",
         "filename":  "text-placeholder-api.jar",
-        "md5":  "",
+        "md5":  "f201d6d69c813c26fcc6d638b2d20013",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/rI0hvYcd/versions/SFpPG1Nz/visuality-0.7.6%2B1.21.jar",
@@ -281,11 +281,11 @@
         "name":  "Visuality",
         "version":  "0.7.6",
         "filename":  "visuality.jar",
-        "md5":  "",
+        "md5":  "1e66315ec91116d64f177d50ee581796",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Wnxd13zP/versions/U9tSAZs1/Clumps-fabric-1.21-18.0.0.1.jar",
@@ -293,11 +293,11 @@
         "name":  "Clumps",
         "version":  "18.0.0.1",
         "filename":  "clumps.jar",
-        "md5":  "",
+        "md5":  "1be8f8a5e29689435ed88e558bcb6652",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/8shC1gFX/versions/sXO3idkS/BetterF3-11.0.1-Fabric-1.21.jar",
@@ -305,11 +305,11 @@
         "name":  "Better F3",
         "version":  "11.0.1",
         "filename":  "better-f3.jar",
-        "md5":  "",
+        "md5":  "166cbbd9af982a82cf493dfde4d347de",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Orvt0mRa/versions/K4hsdO9H/indium-1.0.34%2Bmc1.21.jar",
@@ -317,11 +317,11 @@
         "name":  "Indium",
         "version":  "1.0.34",
         "filename":  "indium.jar",
-        "md5":  "",
+        "md5":  "efa01c62bcdbf9c561aec8c93b4cc366",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/AANobbMI/versions/RncWhTxD/sodium-fabric-0.5.11%2Bmc1.21.jar",
@@ -329,11 +329,11 @@
         "name":  "Sodium",
         "version":  "0.5.11",
         "filename":  "sodium.jar",
-        "md5":  "",
+        "md5":  "6c1f78cb7d596f5e4e50725bab6b7989",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/YL57xq9U/versions/kuOV4Ece/iris-1.7.3%2Bmc1.21.jar",
@@ -341,11 +341,11 @@
         "name":  "Iris",
         "version":  "1.7.3",
         "filename":  "iris.jar",
-        "md5":  "",
+        "md5":  "16c9b91d058d1a4be4e2c3cff5ad8102",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/M08ruV16/versions/hL2qgP4K/bobby-5.2.3%2Bmc1.21.jar",
@@ -353,11 +353,11 @@
         "name":  "Bobby",
         "version":  "5.2.3",
         "filename":  "bobby.jar",
-        "md5":  "",
+        "md5":  "14c0154a00cefecdb2aa74691e424d1d",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/1IjD5062/versions/NksUpFjf/continuity-3.0.0-beta.5%2B1.21.jar",
@@ -365,11 +365,11 @@
         "name":  "Continuity",
         "version":  "3.0.0",
         "filename":  "continuity.jar",
-        "md5":  "",
+        "md5":  "cd7dbc5efe7f19078ef7609a323e347a",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Lvv4SHrK/versions/T8nEZj6q/BetterThanMending-fabric-2.1.0.jar",
@@ -377,11 +377,11 @@
         "name":  "Better Than Mending",
         "version":  "2.1.0",
         "filename":  "better-than-mending.jar",
-        "md5":  "",
+        "md5":  "da74341f2a1a0eea6a61fd76954343ac",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/kfqD1JRw/versions/VO22sn7H/VisualWorkbench-v21.0.1-1.21-Fabric.jar",
@@ -389,11 +389,11 @@
         "name":  "Visual Workbench",
         "version":  "21.0.1",
         "filename":  "visual-workbench.jar",
-        "md5":  "",
+        "md5":  "b6b2c0c4febd9058eb5bff448b15804a",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://mediafilez.forgecdn.net/files/5429/228/freecam-fabric-1.3.0-beta1%2Bmc1.21.jar",
@@ -401,11 +401,11 @@
         "name":  "Freecam",
         "version":  "1.3.0",
         "filename":  "freecam.jar",
-        "md5":  "",
+        "md5":  "850590ef4ec462dc84deedf3638aea87",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/sakura-ryoko/malilib/releases/download/1.21-sakura.6/malilib-fabric-1.21-0.19.999-sakura.6.jar",
@@ -413,11 +413,11 @@
         "name":  "Malilib",
         "version":  "0.19.999",
         "filename":  "malilib.jar",
-        "md5":  "",
+        "md5":  "095c3ccf6e8536afa1f948581ffbef2f",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar",
@@ -425,11 +425,11 @@
         "name":  "Fabric Language Kotlin",
         "version":  "1.11.0",
         "filename":  "fabric-language-kotlin.jar",
-        "md5":  "",
+        "md5":  "ac91311ce91421ca52a96d2a4e4f078c",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/WUvGZLgB/versions/U7aM8S4t/shuffle-fabric-21.0.1.jar",
@@ -437,11 +437,11 @@
         "name":  "Shuffle",
         "version":  "21.0.1",
         "filename":  "shuffle.jar",
-        "md5":  "",
+        "md5":  "84c936c0e0370e49295bc77d1eb01a8d",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/sakura-ryoko/litematica/releases/download/1.21-sakura.17/litematica-fabric-1.21-0.18.999-sakura.17.jar",
@@ -449,11 +449,11 @@
         "name":  "Litematica",
         "version":  "0.18.999",
         "filename":  "litematica.jar",
-        "md5":  "",
+        "md5":  "4135e5bb571c7b5fa7d602d0042e5703",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.8/minihud-fabric-1.21-0.31.999-sakura.8.jar",
@@ -461,11 +461,11 @@
         "name":  "MiniHUD",
         "version":  "0.31.999",
         "filename":  "minihud.jar",
-        "md5":  "",
+        "md5":  "9920415b5a779d911db6e506f14a94b0",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/sakura-ryoko/servux/releases/download/1.21-0.3.1/servux-fabric-1.21-0.3.1.jar",
@@ -473,11 +473,11 @@
         "name":  "Servux",
         "version":  "1.3.1",
         "filename":  "servux.jar",
-        "md5":  "",
+        "md5":  "0de42f0a48e61ab353f7f8c2c31e1cb4",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/9s6osm5g/versions/Yc8omJNb/cloth-config-15.0.127-fabric.jar",
@@ -485,11 +485,11 @@
         "name":  "Cloth Config",
         "version":  "15.0.127",
         "filename":  "cloth-config.jar",
-        "md5":  "",
+        "md5":  "2a5305e09aac741fa5c6c4cdfb9d6e1f",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/QAGBst4M/versions/rutUEgUD/PuzzlesLib-v21.0.12-1.21-Fabric.jar",
@@ -497,11 +497,11 @@
         "name":  "Puzzles Lib",
         "version":  "21.0.12",
         "filename":  "puzzles-lib.jar",
-        "md5":  "",
+        "md5":  "33c375ab115e6d6beb82e490db6340fe",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/lfHFW1mp/versions/xMkEPAoV/journeymap-fabric-1.21-6.0.0-beta.17.jar",
@@ -509,11 +509,11 @@
         "name":  "Journeymap",
         "version":  "6.0.0",
         "filename":  "journeymap.jar",
-        "md5":  "",
+        "md5":  "90dd04c3337384f3cdf394bbb47c7e9e",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/4I1XuqiY/versions/hX4kT2fu/entity_model_features_fabric_1.21-2.1.3.jar",
@@ -521,11 +521,11 @@
         "name":  "Entity Model Features",
         "version":  "2.1.3",
         "filename":  "entity-model-features.jar",
-        "md5":  "",
+        "md5":  "a9b45745ab3c3718a2408bf63cc9d3dd",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://mediafilez.forgecdn.net/files/5494/142/FreshAnimations_v1.9.2.zip",
@@ -533,11 +533,11 @@
         "name":  "Fresh Animations",
         "version":  "1.9.2",
         "filename":  "fresh-animations.zip",
-        "md5":  "",
+        "md5":  "ebdaffde1a25273994c74b5d9ec21e1f",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/HVnmMxH1/versions/pAOQ9Amz/ComplementaryReimagined_r5.2.2.zip",
@@ -545,11 +545,11 @@
         "name":  "Complementary Shaders Reimagined",
         "version":  "5.2.2",
         "filename":  "complementary-shaders-reimagined.zip",
-        "md5":  "",
+        "md5":  "a0852d3fddaf2c7f957ad6e1b8624513",
         "destination":  "shaderpacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/ZX66K16c/versions/P0E7PbKn/PickUpNotifier-v21.0.0-1.21-Fabric.jar",
@@ -557,11 +557,11 @@
         "name":  "Pick Up Notifier",
         "version":  "21.0.0",
         "filename":  "pick-up-notifier.jar",
-        "md5":  "",
+        "md5":  "37f06c58105ea1ced930108034c8a9bc",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/fM515JnW/versions/R5ocwPul/AmbientSounds_FABRIC_v6.0.4_mc1.21.jar",
@@ -569,11 +569,11 @@
         "name":  "Ambient Sounds",
         "version":  "6.0.4",
         "filename":  "ambient-sounds.jar",
-        "md5":  "",
+        "md5":  "85c785c06eebd4b557bd79892616cfa7",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/1jvt7RTc/versions/K3ac4ndv/AxesAreWeapons-1.9.0-fabric-1.21.jar",
@@ -581,11 +581,11 @@
         "name":  "Axes Are Weapons",
         "version":  "1.9.0",
         "filename":  "axes-are-weapons.jar",
-        "md5":  "",
+        "md5":  "2dda41f3c741f0c2ec69f0992e28f2eb",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Wb5oqrBJ/versions/9OZ8YLAj/chat_heads-0.12.7-fabric-1.21.jar",
@@ -593,11 +593,11 @@
         "name":  "Chat Heads",
         "version":  "0.12.7",
         "filename":  "chat-heads.jar",
-        "md5":  "",
+        "md5":  "083a04588a06dbb7935ba9cb347bfc83",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/OsZiaDHq/versions/okK3RO4e/CreativeCore_FABRIC_v2.12.1_mc1.21.jar",
@@ -605,11 +605,11 @@
         "name":  "Creative Core",
         "version":  "2.12.1",
         "filename":  "creative-core.jar",
-        "md5":  "",
+        "md5":  "51766ba0079912b932baaeb2808cf649",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/JrvR9OHr/versions/G2Uykn6q/doubledoors-1.21.0-5.8.jar",
@@ -617,11 +617,11 @@
         "name":  "Double Doors",
         "version":  "5.8",
         "filename":  "double-doors.jar",
-        "md5":  "",
+        "md5":  "761d2e7ecbc5e723f5e1e0aa4611316b",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/qQyHxfxd/versions/dh2iZIOd/NoChatReports-FORGE-1.21-v2.8.0.jar",
@@ -629,11 +629,11 @@
         "name":  "No Chat Reports",
         "version":  "2.8.0",
         "filename":  "no-chat-reports.jar",
-        "md5":  "",
+        "md5":  "5b9336a603f80ee5486f963a7317b58a",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/ftdbN0KK/versions/ac4a1Xj7/badpackets-fabric-0.8.1.jar",
@@ -641,11 +641,11 @@
         "name":  "Bad Packets",
         "version":  "0.8.1",
         "filename":  "bad-packets.jar",
-        "md5":  "",
+        "md5":  "df11a5bd38c00d2d12daf41deaa389b4",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/6AQIaxuO/versions/jOm0aorp/wthit-fabric-12.2.2.jar",
@@ -653,11 +653,11 @@
         "name":  "What The Hell Is That",
         "version":  "12.2.2",
         "filename":  "wthit.jar",
-        "md5":  "",
+        "md5":  "1b8744c3e187d85ba9c6acee67f49b23",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/gnembon/fabric-carpet/releases/download/1.4.147/fabric-carpet-1.21-1.4.147+v240613.jar",
@@ -665,11 +665,11 @@
         "name":  "Fabric Carpet",
         "version":  "1.4.147",
         "filename":  "fabric-carpet.jar",
-        "md5":  "",
+        "md5":  "01312e9955e79b21aaecc2caa7681446",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://github.com/gnembon/carpet-extra/releases/download/1.4.147/carpet-extra-1.21-1.4.147.jar",
@@ -677,11 +677,11 @@
         "name":  "Carpet Extra",
         "version":  "1.4.147",
         "filename":  "carpet-extra.jar",
-        "md5":  "",
+        "md5":  "98e5bee113ca26b751a5fc7878d96bcc",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Rt1mrUHm/versions/WSx6SItb/player-roles-1.6.11.jar",
@@ -689,11 +689,11 @@
         "name":  "Player Roles",
         "version":  "1.6.11",
         "filename":  "player-roles.jar",
-        "md5":  "",
+        "md5":  "8ad42e914b6f67fbed18d2a89b0b68eb",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/LVN9ygNV/versions/mb29Srom/ledger-1.3.4.jar",
@@ -701,11 +701,11 @@
         "name":  "Ledger",
         "version":  "1.3.4",
         "filename":  "ledger.jar",
-        "md5":  "",
+        "md5":  "8262f61ffc05656ebff5f44118732e3f",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/l6YH9Als/versions/KYGTUMOq/spark-1.10.73-fabric.jar",
@@ -713,11 +713,11 @@
         "name":  "Spark",
         "version":  "1.10.73",
         "filename":  "spark.jar",
-        "md5":  "",
+        "md5":  "44812e838d1001adaa1afa82c1a8c580",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar",
@@ -725,11 +725,11 @@
         "name":  "Camera Overhaul",
         "version":  "1.4.1",
         "filename":  "camera-overhaul.jar",
-        "md5":  "",
+        "md5":  "0e357d8b5653b2a563dc3878723d3291",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/Cfbcv7uF/versions/Gl8sM8TE/mc2discord-fabric-1.21.x-4.2.4.jar",
@@ -737,11 +737,11 @@
         "name":  "Mc2Discord",
         "version":  "4.2.4",
         "filename":  "Mc2Discord.jar",
-        "md5":  "",
+        "md5":  "e346b4a58e740b5d1187ecbfa53a381a",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/mQWkB9ON/versions/xn9KY6LE/stackrefill-1.21.0-4.4.jar",
@@ -749,11 +749,11 @@
         "name":  "Stack Refill",
         "version":  "4.4",
         "filename":  "stack-refill.jar",
-        "md5":  "",
+        "md5":  "0a6f99e21d14278965f361ee1ff0b8dd",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/7YjclEGc/versions/eU6PA0pr/dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar",
@@ -761,11 +761,11 @@
         "name":  "Dynamic Lights",
         "version":  "1.8.3",
         "filename":  "dynamic-lights.jar",
-        "md5":  "",
+        "md5":  "201549a52fdf88b4e73317cff6338ec8",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": false
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1WYWZ3nNjqfdmXsxo98qP-LvxOO2hCY1q",
@@ -773,11 +773,11 @@
         "name":  "Vanilla Tweaks - Redstone",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-redstone.zip",
-        "md5":  "",
+        "md5":  "ff7a0ae02d24c2dc61f7176b3f10ea24",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1Y9uYKy1NTZFLflKHQLqQtzQEmc2juxwL",
@@ -785,11 +785,11 @@
         "name":  "Vanilla Tweaks - Recipes",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-recipes.zip",
-        "md5":  "",
+        "md5":  "7640c8ed4d1afe7c3ea6d0af50ea3ad0",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1R7pIS4m2jOZF1hY3A6TO0q5Ov_uA9ib0",
@@ -797,11 +797,11 @@
         "name":  "Vanilla Tweaks - Ore Borders",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-ore-borders.zip",
-        "md5":  "",
+        "md5":  "63fc89bb79d8e2e441a546e50b4f1a37",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1N5yoEjLjCZ9GwLKo3jT8rFqfQZsyzG7x",
@@ -809,11 +809,11 @@
         "name":  "Vanilla Tweaks - General",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-general.zip",
-        "md5":  "",
+        "md5":  "d74d0ce2e7697dc177ff61ef97b06261",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1cb6EImOV1uqcbM2KXYX-cSrs80zOMoSr",
@@ -821,11 +821,11 @@
         "name":  "Vanilla Tweaks - Crop Markers",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-crop-markers.zip",
-        "md5":  "",
+        "md5":  "72a4cf6e72303927b76c13f876710acd",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1Zu_huPwteY7wKgbiFXVv-T25n9gCBt4T",
@@ -833,11 +833,11 @@
         "name":  "Vanilla Tweaks - Bushy Leaves",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-bushy-leaves.zip",
-        "md5":  "",
+        "md5":  "35e06547514605d6279abbde6006e0e5",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1TCUWdLqDdfW2f1PWPnyUf5yAea9wyNUA",
@@ -845,11 +845,11 @@
         "name":  "Vanilla Tweaks - 3D Items",
         "version":  "1.0",
         "filename":  "vanilla-tweaks-3d-items.zip",
-        "md5":  "",
+        "md5":  "b3d6ec434b34cf65768fd4c29d592884",
         "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
     },
     {
         "url":  "https://cdn.modrinth.com/data/F7wXag4i/versions/rgYqJTY6/inventorymanagement-1.5.0%2B1.20.3.jar",
@@ -857,11 +857,11 @@
         "name":  "Inventory Management",
         "version":  "1.5.0",
         "filename":  "inventory-management.jar",
-        "md5":  "",
+        "md5":  "102d76880ce34cc75e0b84ec98b87876",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/ofS5nIjw/versions/gIFhIrU5/packed-inventory-0.3.0%2B1.20.3.jar",
@@ -869,11 +869,11 @@
         "name":  "Packed Inventory",
         "version":  "0.3.0",
         "filename":  "packed-inventory.jar",
-        "md5":  "",
+        "md5":  "b2401e308b6eb81113630f46726167f3",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/Kl6kcZ08/versions/37Vy9UPw/stackables-2.0.1%2B1.20.3.jar",
@@ -881,11 +881,11 @@
         "name":  "Stackables",
         "version":  "2.0.1",
         "filename":  "stackables.jar",
-        "md5":  "",
+        "md5":  "e04ba7dd08645938605cbaaabf2754b2",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": true
+        "server":  true,
+        "client":  false,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/eMBIyoJt/versions/I9oguT4k/betterbookshelves-0.4.0.jar",
@@ -893,11 +893,11 @@
         "name":  "Better Bookshelves",
         "version":  "0.4.0",
         "filename":  "better-bookshelves.jar",
-        "md5":  "",
+        "md5":  "1761f1f45d2e2dfc7f0d8771f273a179",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/9NM0dXub/versions/56YpTRVM/AdvancementPlaques-1.20.6-fabric-1.6.2.jar",
@@ -905,11 +905,11 @@
         "name":  "Advancement Plaques",
         "version":  "1.6.2",
         "filename":  "advancement-plaques.jar",
-        "md5":  "",
+        "md5":  "36373311e89b2e0513027bf93f4d8da6",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
+        "server":  false,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/4WoxRZtH/shulkerplus-mc1.20.1-v1.0.7-fabric.jar",
@@ -917,11 +917,11 @@
         "name":  "Shulker+",
         "version":  "1.0.7",
         "filename":  "shulker-plus.jar",
-        "md5":  "",
+        "md5":  "29252c025612432cf5be2cf23436a86d",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/1OE8wbN0/versions/8JYabc0K/Prism-1.20.5-fabric-1.0.7.jar",
@@ -929,11 +929,11 @@
         "name":  "Prism",
         "version":  "1.0.7",
         "filename":  "prism.jar",
-        "md5":  "",
+        "md5":  "e124c6ea4316029330953b6fce219769",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
+        "server":  false,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/5faXoLqX/versions/xs03Scvd/Iceberg-1.20.6-fabric-1.1.24.jar",
@@ -941,11 +941,11 @@
         "name":  "Iceberg",
         "version":  "1.1.24",
         "filename":  "iceberg.jar",
-        "md5":  "",
+        "md5":  "c4c5565bc8183068bc5dc12b3c14a833",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/atHH8NyV/versions/YH6Zg5SV/LegendaryTooltips-1.20.6-forge-1.4.6.jar",
@@ -953,11 +953,11 @@
         "name":  "Legendary Tooltips",
         "version":  "1.4.6",
         "filename":  "legendary-tooltips.jar",
-        "md5":  "",
+        "md5":  "c9f30e3600e5dca88b5cab7b29101cd7",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
+        "server":  false,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/5aaWibi9/versions/SGjPO8H9/trinkets-3.9.0.jar",
@@ -965,11 +965,11 @@
         "name":  "Trinkets",
         "version":  "3.9.0",
         "filename":  "trinkets.jar",
-        "md5":  "",
+        "md5":  "4d7815c58620709492606891c45d4dca",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/b5GyyYkp/versions/5v3AJE3r/charmofundying-fabric-8.0.0%2B1.20.6.jar",
@@ -977,11 +977,11 @@
         "name":  "Charm Of Undying",
         "version":  "8.0.0",
         "filename":  "charm-of-undying.jar",
-        "md5":  "",
+        "md5":  "45182c662ba69319565e3569be21b851",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/wk57PrDM/versions/PN5KfZdr/elytra_trinket-1.0.8.jar",
@@ -989,11 +989,11 @@
         "name":  "Elytra Trinket",
         "version":  "1.0.8",
         "filename":  "elytra-trinket.jar",
-        "md5":  "",
+        "md5":  "e7e7e62200f1cdf8fef4fec412ce6c1e",
         "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": true
+        "server":  true,
+        "client":  true,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/hsRVgp6Q/versions/f2Ie4p8k/leukocyte-0.3.8%2B1.20.6.jar",
@@ -1001,11 +1001,11 @@
         "name":  "Leukocyte",
         "version":  "0.3.8",
         "filename":  "leukocyte.jar",
-        "md5":  "",
+        "md5":  "d6850da38ac75c03d5a26a9f2ca342b4",
         "destination":  "mods",
-        "server": true,
-        "client": false,
-        "deprecated": true
+        "server":  true,
+        "client":  false,
+        "deprecated":  true
     },
     {
         "url":  "https://cdn.modrinth.com/data/UVtY3ZAC/versions/BvDK9nGq/EnchantmentDescriptions-Fabric-1.20.4-20.0.4.jar",
@@ -1013,10 +1013,10 @@
         "name":  "Enchantment Descriptions",
         "version":  "20.0.4",
         "filename":  "enchantment-descriptions.jar",
-        "md5":  "",
+        "md5":  "440a0359545e8a4baf4373ccb80a0823",
         "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
+        "server":  false,
+        "client":  true,
+        "deprecated":  true
     }
 ]
