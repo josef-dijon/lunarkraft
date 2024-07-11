@@ -721,7 +721,7 @@
     },
     {
         "url":  "https://cdn.modrinth.com/data/m0oRwcZx/versions/siH8aqXE/CameraOverhaul-1.4.1-fabric-universal.jar",
-        "home-url":  "https://cdn.modrinth.com/mod/m0oRwcZx",
+        "home-url":  "https://modrinth.com/mod/m0oRwcZx",
         "name":  "Camera Overhaul",
         "version":  "1.4.1",
         "filename":  "camera-overhaul.jar",
@@ -733,7 +733,7 @@
     },
     {
         "url":  "https://cdn.modrinth.com/data/Cfbcv7uF/versions/Gl8sM8TE/mc2discord-fabric-1.21.x-4.2.4.jar",
-        "home-url":  "https://cdn.modrinth.com/mod/Cfbcv7uF",
+        "home-url":  "https://modrinth.com/mod/Cfbcv7uF",
         "name":  "Mc2Discord",
         "version":  "4.2.4",
         "filename":  "Mc2Discord.jar",
@@ -744,11 +744,11 @@
         "deprecated": false
     },
     {
-        "url":  "", ######################
-        "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
-        "name":  "Shulker+",
-        "version":  "",
-        "filename":  "shulker-plus.jar",
+        "url":  "https://cdn.modrinth.com/data/mQWkB9ON/versions/xn9KY6LE/stackrefill-1.21.0-4.4.jar",
+        "home-url":  "https://modrinth.com/mod/mQWkB9ON",
+        "name":  "Stack Refill",
+        "version":  "4.4",
+        "filename":  "stack-refill.jar",
         "md5":  "",
         "destination":  "mods",
         "server": true,
@@ -756,35 +756,107 @@
         "deprecated": false
     },
     {
-        "url":  "", ######################
+        "url":  "https://cdn.modrinth.com/data/7YjclEGc/versions/eU6PA0pr/dynamiclights-v1.8.3-mc1.17x-1.21x-mod.jar",
+        "home-url":  "https://modrinth.com/mod/7YjclEGc",
+        "name":  "Dynamic Lights",
+        "version":  "1.8.3",
+        "filename":  "dynamic-lights.jar",
+        "md5":  "",
+        "destination":  "mods",
+        "server": true,
+        "client": false,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1WYWZ3nNjqfdmXsxo98qP-LvxOO2hCY1q",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - Redstone",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-redstone.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1Y9uYKy1NTZFLflKHQLqQtzQEmc2juxwL",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - Recipes",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-recipes.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1R7pIS4m2jOZF1hY3A6TO0q5Ov_uA9ib0",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - Ore Borders",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-ore-borders.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1N5yoEjLjCZ9GwLKo3jT8rFqfQZsyzG7x",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - General",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-general.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1cb6EImOV1uqcbM2KXYX-cSrs80zOMoSr",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - Crop Markers",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-crop-markers.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1Zu_huPwteY7wKgbiFXVv-T25n9gCBt4T",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - Bushy Leaves",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-bushy-leaves.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1TCUWdLqDdfW2f1PWPnyUf5yAea9wyNUA",
+        "home-url":  "https://vanillatweaks.net/",
+        "name":  "Vanilla Tweaks - 3D Items",
+        "version":  "1.0",
+        "filename":  "vanilla-tweaks-3d-items.zip",
+        "md5":  "",
+        "destination":  "resourcepacks",
+        "server": false,
+        "client": true,
+        "deprecated": false
+    },
+    {
+        "url":  "https://cdn.modrinth.com/data/F7wXag4i/versions/rgYqJTY6/inventorymanagement-1.5.0%2B1.20.3.jar",
         "home-url":  "https://modrinth.com/mod/F7wXag4i",
         "name":  "Inventory Management",
-        "version":  "",
+        "version":  "1.5.0",
         "filename":  "inventory-management.jar",
-        "md5":  "",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "", ##################
-        "home-url":  "https://modrinth.com/mod/ofS5nIjw",
-        "name":  "Packed Inventory",
-        "version":  "",
-        "filename":  "packed-inventory.jar",
-        "md5":  "",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "", ##############################
-        "home-url":  "https://www.curseforge.com/projects/396596",
-        "name":  "Stackable Potions",
-        "version":  "",
-        "filename":  "stackable-potions.jar",
         "md5":  "",
         "destination":  "mods",
         "server": true,
@@ -792,142 +864,106 @@
         "deprecated": true
     },
     {
-        "url":  "", ########################
-        "home-url":  "https://modrinth.com/mod/yBW8D80W",
-        "name":  "Lamb Dynamic Lights",
-        "version":  "",
-        "filename":  "lamb-dynamic-lights.jar",
+        "url":  "https://cdn.modrinth.com/data/ofS5nIjw/versions/gIFhIrU5/packed-inventory-0.3.0%2B1.20.3.jar",
+        "home-url":  "https://modrinth.com/mod/ofS5nIjw",
+        "name":  "Packed Inventory",
+        "version":  "0.3.0",
+        "filename":  "packed-inventory.jar",
         "md5":  "",
         "destination":  "mods",
-        "server": false,
+        "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "", #######################
+        "url":  "https://cdn.modrinth.com/data/Kl6kcZ08/versions/37Vy9UPw/stackables-2.0.1%2B1.20.3.jar",
+        "home-url":  "https://modrinth.com/mod/Kl6kcZ08",
+        "name":  "Stackables",
+        "version":  "2.0.1",
+        "filename":  "stackables.jar",
+        "md5":  "",
+        "destination":  "mods",
+        "server": true,
+        "client": false,
+        "deprecated": true
+    },
+    {
+        "url":  "https://cdn.modrinth.com/data/eMBIyoJt/versions/I9oguT4k/betterbookshelves-0.4.0.jar",
         "home-url":  "https://modrinth.com/mod/eMBIyoJt",
         "name":  "Better Bookshelves",
-        "version":  "",
+        "version":  "0.4.0",
         "filename":  "better-bookshelves.jar",
         "md5":  "",
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "", ##########################
+        "url":  "https://cdn.modrinth.com/data/9NM0dXub/versions/56YpTRVM/AdvancementPlaques-1.20.6-fabric-1.6.2.jar",
         "home-url":  "https://modrinth.com/mod/9NM0dXub",
         "name":  "Advancement Plaques",
-        "version":  "",
+        "version":  "1.6.2",
         "filename":  "advancement-plaques.jar",
         "md5":  "",
         "destination":  "mods",
         "server": false,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "https://drive.google.com/uc?export=download\u0026id=1nvmRyU1tmh-Sfp3SPkVgNt_lNCrgPuen", ###################################################
-        "home-url":  "https://vanillatweaks.net/",
-        "name":  "Vanilla Tweaks - Bushy Leaves",
-        "version":  "1.0",
-        "filename":  "vanilla-tweaks-bushy-leaves.zip",
-        "md5":  "2b9625310e5e9d472c74ca731e1f40de",
-        "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "https://drive.google.com/uc?export=download\u0026id=1dTGV7DLDjF4kl6KXlLAUkBzB1EDvJuCh", #################################################
-        "home-url":  "https://vanillatweaks.net/",
-        "name":  "Vanilla Tweaks - Crop Markers",
-        "version":  "1.0",
-        "filename":  "vanilla-tweaks-crop-markers.zip",
-        "md5":  "81d631c5a9a32d69a925a00728237e70",
-        "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "https://drive.google.com/uc?export=download\u0026id=1I71o5haUhZOcCct-FfWmOEwYN6X6crI9", ###########################################
-        "home-url":  "https://vanillatweaks.net/",
-        "name":  "Vanilla Tweaks",
-        "version":  "1.0",
-        "filename":  "vanilla-tweaks.zip",
-        "md5":  "a549f4470797809e0ea6bed1d005aaab",
-        "destination":  "resourcepacks",
-        "server": false,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/uy4Cnpcm/versions/Veo82xGo/Bookshelf-Fabric-1.20.4-23.0.6.jar", #######################
-        "home-url":  "https://modrinth.com/mod/uy4Cnpcm",
-        "name":  "Bookshelf",
-        "version":  "23.0.6",
-        "filename":  "bookshelf.jar",
-        "md5":  "73290923924e946eaa4b34f9602d0ada",
+        "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/4WoxRZtH/shulkerplus-mc1.20.1-v1.0.7-fabric.jar",
+        "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
+        "name":  "Shulker+",
+        "version":  "1.0.7",
+        "filename":  "shulker-plus.jar",
+        "md5":  "",
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/1OE8wbN0/versions/4PcfwwpA/Prism-1.20.4-fabric-1.0.6.jar", ###################### LegendaryTooltips
+        "url":  "https://cdn.modrinth.com/data/1OE8wbN0/versions/8JYabc0K/Prism-1.20.5-fabric-1.0.7.jar",
         "home-url":  "https://modrinth.com/mod/1OE8wbN0",
         "name":  "Prism",
-        "version":  "1.0.6",
+        "version":  "1.0.7",
         "filename":  "prism.jar",
-        "md5":  "f0709ed3d764e564fde6d4b788fd5257",
+        "md5":  "",
         "destination":  "mods",
         "server": false,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "", ################################ LegendaryTooltips
+        "url":  "https://cdn.modrinth.com/data/5faXoLqX/versions/xs03Scvd/Iceberg-1.20.6-fabric-1.1.24.jar",
         "home-url":  "https://modrinth.com/mod/5faXoLqX",
         "name":  "Iceberg",
-        "version":  "",
+        "version":  "1.1.24",
         "filename":  "iceberg.jar",
         "md5":  "",
         "destination":  "mods",
         "server": true,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/atHH8NyV/versions/y08hPXLb/LegendaryTooltips-1.20.2-fabric-1.4.5.jar", #####################
+        "url":  "https://cdn.modrinth.com/data/atHH8NyV/versions/YH6Zg5SV/LegendaryTooltips-1.20.6-forge-1.4.6.jar",
         "home-url":  "https://modrinth.com/mod/atHH8NyV",
         "name":  "Legendary Tooltips",
-        "version":  "1.4.5",
+        "version":  "1.4.6",
         "filename":  "legendary-tooltips.jar",
-        "md5":  "017e8bc6881bd423575dd6576721d798",
+        "md5":  "",
         "destination":  "mods",
         "server": false,
         "client": true,
-        "deprecated": false
+        "deprecated": true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/Ua7DFN59/versions/RXxBbRs7/YungsApi-1.20.4-Fabric-4.4.2.jar", ########################
-        "home-url":  "https://modrinth.com/mod/Ua7DFN59",
-        "name":  "Yungs API",
-        "version":  "4.4.2",
-        "filename":  "yungs-api.jar",
-        "md5":  "012b1bfd6b8d7a5f3efeaf331c79ef57",
-        "destination":  "mods",
-        "server": true,
-        "client": true,
-        "deprecated": false
-    },
-    {
-        "url":  "#######################",
+        "url":  "https://cdn.modrinth.com/data/5aaWibi9/versions/SGjPO8H9/trinkets-3.9.0.jar",
         "home-url":  "https://modrinth.com/mod/5aaWibi9",
         "name":  "Trinkets",
-        "version":  "",
+        "version":  "3.9.0",
         "filename":  "trinkets.jar",
         "md5":  "",
         "destination":  "mods",
@@ -936,10 +972,10 @@
         "deprecated": true
     },
     {
-        "url":  "####################",
+        "url":  "https://cdn.modrinth.com/data/b5GyyYkp/versions/5v3AJE3r/charmofundying-fabric-8.0.0%2B1.20.6.jar",
         "home-url":  "https://modrinth.com/mod/b5GyyYkp",
         "name":  "Charm Of Undying",
-        "version":  "",
+        "version":  "8.0.0",
         "filename":  "charm-of-undying.jar",
         "md5":  "",
         "destination":  "mods",
@@ -948,10 +984,10 @@
         "deprecated": true
     },
     {
-        "url":  "######################",
+        "url":  "https://cdn.modrinth.com/data/wk57PrDM/versions/PN5KfZdr/elytra_trinket-1.0.8.jar",
         "home-url":  "https://modrinth.com/mod/wk57PrDM",
         "name":  "Elytra Trinket",
-        "version":  "",
+        "version":  "1.0.8",
         "filename":  "elytra-trinket.jar",
         "md5":  "",
         "destination":  "mods",
@@ -960,10 +996,10 @@
         "deprecated": true
     },
     {
-        "url":  "########################",
+        "url":  "https://cdn.modrinth.com/data/hsRVgp6Q/versions/f2Ie4p8k/leukocyte-0.3.8%2B1.20.6.jar",
         "home-url":  "https://modrinth.com/mod/hsRVgp6Q",
         "name":  "Leukocyte",
-        "version":  "",
+        "version":  "0.3.8",
         "filename":  "leukocyte.jar",
         "md5":  "",
         "destination":  "mods",
@@ -972,22 +1008,10 @@
         "deprecated": true
     },
     {
-        "url":  "####################",
-        "home-url":  "https://modrinth.com/mod/JtifUr64",
-        "name":  "Travelers Titles",
-        "version":  "",
-        "filename":  "travelers-titles.jar",
-        "md5":  "",
-        "destination":  "mods",
-        "server": false,
-        "client": true,
-        "deprecated": true
-    },
-    {
-        "url":  "####################",
+        "url":  "https://cdn.modrinth.com/data/UVtY3ZAC/versions/BvDK9nGq/EnchantmentDescriptions-Fabric-1.20.4-20.0.4.jar",
         "home-url":  "https://modrinth.com/mod/UVtY3ZAC",
         "name":  "Enchantment Descriptions",
-        "version":  "",
+        "version":  "20.0.4",
         "filename":  "enchantment-descriptions.jar",
         "md5":  "",
         "destination":  "mods",
