@@ -768,6 +768,30 @@
         "deprecated":  false
     },
     {
+        "url":  "https://cdn.modrinth.com/data/5aaWibi9/versions/JagCscwi/trinkets-3.10.0.jar",
+        "home-url":  "https://modrinth.com/mod/5aaWibi9",
+        "name":  "Trinkets",
+        "version":  "3.10.0",
+        "filename":  "trinkets.jar",
+        "md5":  "4a42e243d6d5c25dea83be3ddc0b28b1",
+        "destination":  "mods",
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
+    },
+    {
+        "url":  "https://cdn.modrinth.com/data/wk57PrDM/versions/piDrfmnX/elytra_trinket-1.0.9.jar",
+        "home-url":  "https://modrinth.com/mod/wk57PrDM",
+        "name":  "Elytra Trinket",
+        "version":  "1.0.9",
+        "filename":  "elytra-trinket.jar",
+        "md5":  "1da0f3053210adb9a7ea2ba34b1868f2",
+        "destination":  "mods",
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
+    },
+    {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1WYWZ3nNjqfdmXsxo98qP-LvxOO2hCY1q",
         "home-url":  "https://vanillatweaks.net/",
         "name":  "Vanilla Tweaks - Redstone",
@@ -960,36 +984,12 @@
         "deprecated":  true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/5aaWibi9/versions/SGjPO8H9/trinkets-3.9.0.jar",
-        "home-url":  "https://modrinth.com/mod/5aaWibi9",
-        "name":  "Trinkets",
-        "version":  "3.9.0",
-        "filename":  "trinkets.jar",
-        "md5":  "4d7815c58620709492606891c45d4dca",
-        "destination":  "mods",
-        "server":  true,
-        "client":  true,
-        "deprecated":  true
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/b5GyyYkp/versions/5v3AJE3r/charmofundying-fabric-8.0.0%2B1.20.6.jar",
         "home-url":  "https://modrinth.com/mod/b5GyyYkp",
         "name":  "Charm Of Undying",
         "version":  "8.0.0",
         "filename":  "charm-of-undying.jar",
         "md5":  "45182c662ba69319565e3569be21b851",
-        "destination":  "mods",
-        "server":  true,
-        "client":  true,
-        "deprecated":  true
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/wk57PrDM/versions/PN5KfZdr/elytra_trinket-1.0.8.jar",
-        "home-url":  "https://modrinth.com/mod/wk57PrDM",
-        "name":  "Elytra Trinket",
-        "version":  "1.0.8",
-        "filename":  "elytra-trinket.jar",
-        "md5":  "e7e7e62200f1cdf8fef4fec412ce6c1e",
         "destination":  "mods",
         "server":  true,
         "client":  true,
