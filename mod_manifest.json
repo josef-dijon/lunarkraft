@@ -792,6 +792,18 @@
         "deprecated":  false
     },
     {
+        "url":  "https://cdn.modrinth.com/data/yppxDTPT/versions/Eoy5raaC/Stackable%20Potions-fabric-1.21-1.0.0.jar",
+        "home-url":  "https://modrinth.com/mod/yppxDTPT",
+        "name":  "Stackable Potions",
+        "version":  "1.0.0",
+        "filename":  "stackable-potions.jar",
+        "md5":  "dc7d24bf719b583b63ea7717e00992c6",
+        "destination":  "mods",
+        "server":  true,
+        "client":  false,
+        "deprecated":  false
+    },
+    {
         "url":  "https://drive.google.com/uc?export=download\u0026id=1WYWZ3nNjqfdmXsxo98qP-LvxOO2hCY1q",
         "home-url":  "https://vanillatweaks.net/",
         "name":  "Vanilla Tweaks - Redstone",
@@ -897,18 +909,6 @@
         "destination":  "mods",
         "server":  true,
         "client":  true,
-        "deprecated":  true
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/Kl6kcZ08/versions/37Vy9UPw/stackables-2.0.1%2B1.20.3.jar",
-        "home-url":  "https://modrinth.com/mod/Kl6kcZ08",
-        "name":  "Stackables",
-        "version":  "2.0.1",
-        "filename":  "stackables.jar",
-        "md5":  "e04ba7dd08645938605cbaaabf2754b2",
-        "destination":  "mods",
-        "server":  true,
-        "client":  false,
         "deprecated":  true
     },
     {
