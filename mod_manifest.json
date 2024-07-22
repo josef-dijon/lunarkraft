@@ -120,18 +120,6 @@
         "deprecated":  false
     },
     {
-        "url":  "https://github.com/sakura-ryoko/tweakeroo/releases/download/1.21-sakura.17/tweakeroo-fabric-1.21-0.20.999-sakura.17.jar",
-        "home-url":  "https://github.com/sakura-ryoko/tweakeroo",
-        "name":  "Tweakeroo",
-        "version":  "0.20.999.17",
-        "filename":  "tweakeroo.jar",
-        "md5":  "af9b5ed30396c16690e08404ae8a00cc",
-        "destination":  "mods",
-        "server":  false,
-        "client":  true,
-        "deprecated":  false
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rBFMbNKQ/jei-1.21-fabric-19.4.0.28.jar",
         "home-url":  "https://modrinth.com/mod/u6dRKJwZ",
         "name":  "Just Enough Items",
@@ -432,18 +420,6 @@
         "deprecated":  false
     },
     {
-        "url":  "https://github.com/sakura-ryoko/malilib/releases/download/1.21-sakura.8/malilib-fabric-1.21-0.19.999-sakura.8.jar",
-        "home-url":  "https://github.com/sakura-ryoko/malilib",
-        "name":  "Malilib",
-        "version":  "0.19.999.8",
-        "filename":  "malilib.jar",
-        "md5":  "d8a224590240c8f2f06068cd302df1b8",
-        "destination":  "mods",
-        "server":  true,
-        "client":  true,
-        "deprecated":  false
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/Ha28R6CL/versions/afsFajDC/fabric-language-kotlin-1.11.0%2Bkotlin.2.0.0.jar",
         "home-url":  "https://modrinth.com/mod/Ha28R6CL",
         "name":  "Fabric Language Kotlin",
@@ -468,7 +444,31 @@
         "deprecated":  false
     },
     {
-        "url":  "https://github.com/sakura-ryoko/litematica/releases/download/1.21-sakura.20/litematica-fabric-1.21-0.18.999-sakura.20.jar",
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1eYgpx3h6eJrNyZxeB0_CMzd06VKUFuQS",
+        "home-url":  "https://github.com/sakura-ryoko/tweakeroo",
+        "name":  "Tweakeroo",
+        "version":  "0.20.999.17",
+        "filename":  "tweakeroo.jar",
+        "md5":  "af9b5ed30396c16690e08404ae8a00cc",
+        "destination":  "mods",
+        "server":  false,
+        "client":  true,
+        "deprecated":  false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1AeuoOFvDhhQtckhlwNOnvaosrbeHjqU0",
+        "home-url":  "https://github.com/sakura-ryoko/malilib",
+        "name":  "Malilib",
+        "version":  "0.19.999.8",
+        "filename":  "malilib.jar",
+        "md5":  "d8a224590240c8f2f06068cd302df1b8",
+        "destination":  "mods",
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
+    },
+    {
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1JZP-vMzdU-afBOUaKEGVUj_GXF8O5Mi8",
         "home-url":  "https://github.com/sakura-ryoko/litematica",
         "name":  "Litematica",
         "version":  "0.18.999.20",
@@ -480,7 +480,7 @@
         "deprecated":  false
     },
     {
-        "url":  "https://github.com/sakura-ryoko/minihud/releases/download/1.21-sakura.9/minihud-fabric-1.21-0.31.999-sakura.9.jar",
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1bsgdB4TUVi2BBsBkmBgny0-lgX2yMRCI",
         "home-url":  "https://github.com/sakura-ryoko/minihud",
         "name":  "MiniHUD",
         "version":  "0.31.999.9",
@@ -492,7 +492,7 @@
         "deprecated":  false
     },
     {
-        "url":  "https://github.com/sakura-ryoko/servux/releases/download/1.21-0.3.3/servux-fabric-1.21-0.3.3.jar",
+        "url":  "https://drive.google.com/uc?export=download\u0026id=1_Om-iTDOJTP9MybaczGTMJIUL9466VUJ",
         "home-url":  "https://github.com/sakura-ryoko/servux",
         "name":  "Servux",
         "version":  "0.3.3",
