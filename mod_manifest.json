@@ -816,6 +816,18 @@
         "deprecated":  false
     },
     {
+        "url":  "https://cdn.modrinth.com/data/b5GyyYkp/versions/cb5dJhX3/charmofundying-fabric-9.0.0%2B1.21.jar",
+        "home-url":  "https://modrinth.com/mod/b5GyyYkp",
+        "name":  "Charm Of Undying",
+        "version":  "9.0.0",
+        "filename":  "charm-of-undying.jar",
+        "md5":  "77b58e9adf3f8b92b44069e759b4557f",
+        "destination":  "mods",
+        "server":  true,
+        "client":  true,
+        "deprecated":  false
+    },
+    {
         "url":  "https://cdn.modrinth.com/data/yppxDTPT/versions/Eoy5raaC/Stackable%20Potions-fabric-1.21-1.0.0.jar",
         "home-url":  "https://modrinth.com/mod/yppxDTPT",
         "name":  "Stackable Potions",
@@ -825,6 +837,18 @@
         "destination":  "mods",
         "server":  true,
         "client":  false,
+        "deprecated":  false
+    },
+    {
+        "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/RDOfEIOb/shulkerplus-mc1.21-v1.3.1-fabric.jar",
+        "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
+        "name":  "Shulker+",
+        "version":  "1.3.1",
+        "filename":  "shulker-plus.jar",
+        "md5":  "e3e9900ba2f7ca36d178fa3b49f536f3",
+        "destination":  "mods",
+        "server":  true,
+        "client":  true,
         "deprecated":  false
     },
     {
@@ -960,18 +984,6 @@
         "deprecated":  true
     },
     {
-        "url":  "https://cdn.modrinth.com/data/eU7ZC3fy/versions/4WoxRZtH/shulkerplus-mc1.20.1-v1.0.7-fabric.jar",
-        "home-url":  "https://modrinth.com/mod/eU7ZC3fy",
-        "name":  "Shulker+",
-        "version":  "1.0.7",
-        "filename":  "shulker-plus.jar",
-        "md5":  "29252c025612432cf5be2cf23436a86d",
-        "destination":  "mods",
-        "server":  true,
-        "client":  true,
-        "deprecated":  true
-    },
-    {
         "url":  "https://cdn.modrinth.com/data/1OE8wbN0/versions/8JYabc0K/Prism-1.20.5-fabric-1.0.7.jar",
         "home-url":  "https://modrinth.com/mod/1OE8wbN0",
         "name":  "Prism",
@@ -1004,18 +1016,6 @@
         "md5":  "c9f30e3600e5dca88b5cab7b29101cd7",
         "destination":  "mods",
         "server":  false,
-        "client":  true,
-        "deprecated":  true
-    },
-    {
-        "url":  "https://cdn.modrinth.com/data/b5GyyYkp/versions/5v3AJE3r/charmofundying-fabric-8.0.0%2B1.20.6.jar",
-        "home-url":  "https://modrinth.com/mod/b5GyyYkp",
-        "name":  "Charm Of Undying",
-        "version":  "8.0.0",
-        "filename":  "charm-of-undying.jar",
-        "md5":  "45182c662ba69319565e3569be21b851",
-        "destination":  "mods",
-        "server":  true,
         "client":  true,
         "deprecated":  true
     },
