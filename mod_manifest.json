@@ -12,12 +12,12 @@
         "deprecated":  false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/ohNO6lps/versions/ydIrnr9Q/ForgeConfigAPIPort-v21.0.6-1.21-Forge.jar",
+        "url":  "https://cdn.modrinth.com/data/ohNO6lps/versions/BNTJgetj/ForgeConfigAPIPort-v21.0.6-1.21-Fabric.jar",
         "home-url":  "https://modrinth.com/mod/ohNO6lps",
         "name":  "Forge Config API Port",
         "version":  "21.0.6",
         "filename":  "forge-config-api-port.jar",
-        "md5":  "b228dbde4ee7a7ad90b4261c6d9d50d1",
+        "md5":  "0fd824a45648d5f292ecf65b12f2579d",
         "destination":  "mods",
         "server":  true,
         "client":  true,
