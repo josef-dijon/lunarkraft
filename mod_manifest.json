@@ -120,12 +120,12 @@
         "deprecated":  false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/rBFMbNKQ/jei-1.21-fabric-19.4.0.28.jar",
+        "url":  "https://cdn.modrinth.com/data/u6dRKJwZ/versions/8FWw6cDm/jei-1.21-fabric-19.5.3.70.jar",
         "home-url":  "https://modrinth.com/mod/u6dRKJwZ",
         "name":  "Just Enough Items",
-        "version":  "19.4.0.28",
+        "version":  "19.5.3.70",
         "filename":  "just-enough-items.jar",
-        "md5":  "941612eaa3ff9be43589ecb50a1a2173",
+        "md5":  "bfc0342a50e0d81e21eb34bf84adea32",
         "destination":  "mods",
         "server":  false,
         "client":  true,
