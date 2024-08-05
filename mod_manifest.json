@@ -528,12 +528,12 @@
         "deprecated":  false
     },
     {
-        "url":  "https://cdn.modrinth.com/data/lfHFW1mp/versions/xMkEPAoV/journeymap-fabric-1.21-6.0.0-beta.17.jar",
+        "url":  "https://cdn.modrinth.com/data/lfHFW1mp/versions/YTHpmWl7/journeymap-fabric-1.21-6.0.0-beta.18.jar",
         "home-url":  "https://modrinth.com/mod/lfHFW1mp",
         "name":  "Journeymap",
-        "version":  "6.0.0",
+        "version":  "6.0.0.18",
         "filename":  "journeymap.jar",
-        "md5":  "90dd04c3337384f3cdf394bbb47c7e9e",
+        "md5":  "a5e5eb8e0b3be82fa6c0386ed5b27008",
         "destination":  "mods",
         "server":  true,
         "client":  true,
